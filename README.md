@@ -1,6 +1,6 @@
 # ENV-APP
 
-Ce projet est une application React 19 configurée avec Webpack et Babel. Il utilise **pnpm** comme gestionnaire de paquets, **Tailwind CSS** pour le style, **JsDoc** pour la documentation, **Commitizen** pour les commits, **Husky** pour les hooks Git, **Commitlint** pour le respect des conventions de commit, **ESLint** avec la configuration Airbnb pour le linting, et **Jest** pour les tests unitaires.
+Ce projet est une application React 19 configurée avec Webpack et Babel. Il utilise **pnpm** comme gestionnaire de paquets, **Tailwind CSS** pour le style, **JsDoc** pour la documentation, **Commitizen** pour les commits, **Husky** pour les hooks Git, **Commitlint** pour le respect des conventions de commit, **ESLint** avec la configuration Airbnb pour le linting, **Prettier** pour le formatage du code, et **Jest** pour les tests unitaires.
 
 ---
 
@@ -120,3 +120,4 @@ pnpm commit
 ## 🐝 Licence
 
 Ce projet est sous licence [MIT](LICENSE).
+
