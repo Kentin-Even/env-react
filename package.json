@@ -8,6 +8,7 @@
     "build": "webpack --mode production",
     "doc": "pnpm exec jsdoc --configure jsdoc.json",
     "prepare": "husky",
+    "commit": "cz",
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
